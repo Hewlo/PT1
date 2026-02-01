@@ -1,0 +1,20 @@
+
+This is a sample content to be written to the text file.
+1 - My name is John.
+2 - I am student of Administrative Scripting.
+3 - I will become a Python developer once I finish this course.
+
+This is a sample content to be written to the text file.
+1 - My name is John.
+2 - I am student of Administrative Scripting.
+3 - I will become a Python developer once I finish this course.
+
+This is a sample content to be written to the text file.
+1 - My name is John.
+2 - I am student of Administrative Scripting.
+3 - I will become a Python developer once I finish this course.
+
+This is a sample content to be written to the text file.
+1 - My name is John.
+2 - I am student of Administrative Scripting.
+3 - I will become a Python developer once I finish this course.

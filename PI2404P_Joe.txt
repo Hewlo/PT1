@@ -1,0 +1,7 @@
+2026-02-01 11:30:00,452: root - INFO - Rename file: /home/hewlo/Documents/IBEProjects/PT1/resource/project1.txt rename to project1_Andrew.txt
+2026-02-01 11:30:00,452: root - INFO - Rename file: /home/hewlo/Documents/IBEProjects/PT1/resource/project2.txt rename to project2_John.txt
+2026-02-01 11:30:00,452: root - INFO - Rename file: /home/hewlo/Documents/IBEProjects/PT1/resource/project3.txt rename to project3_Mary.txt
+2026-02-01 11:30:00,452: root - INFO - Rename file: /home/hewlo/Documents/IBEProjects/PT1/resource/project4.txt rename to project4_Peter.txt
+2026-02-01 11:30:00,453: root - INFO - Backing up folder: /home/hewlo/Documents/IBEProjects/PT1/2026_02_01_resource created
+2026-02-01 11:30:00,453: root - INFO - Compressing file 2026_02_01_11_30_00_resource.zip
+2026-02-01 11:30:00,453: root - INFO - Removing folder /home/hewlo/Documents/IBEProjects/PT1/2026_02_01_resource removed

@@ -1,0 +1,7 @@
+[personal_information]
+name=John
+age=21
+
+[grades]
+english=3
+maths=66
