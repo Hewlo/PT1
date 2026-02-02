@@ -1,2 +1,0 @@
-FileName,Uploaded by
-project1, Andrew
